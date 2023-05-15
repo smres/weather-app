@@ -1,2 +1,2 @@
 site address for visit :
-https://clock.fazapooshesh.ir/
+https://weather.fazapooshesh.ir/
